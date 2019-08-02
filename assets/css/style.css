@@ -1,7 +1,21 @@
-body{
+/* body{
 
   margin: 0;
   padding: 0;
+
+
+} */
+body{
+  min-height: 100vh;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  /* background: #ffd0a8; */
+  color: #333;
+  font-family: 'calibri, sans=serif';
+  font-weight: 400;
+  text-transform: capitalize;
+  background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/clean_textile_@2X.png);
 
 
 }
@@ -22,4 +36,12 @@ h1{
   background-color: #4aaaa5;
   width: 15%;
   margin-left: 15%;
+}
+.container{
+  padding-top: 20rem;
+  text-align: center;
+  /* padding: 2rem; */
+  /* border-radius: 5px; */
+  background-color: #fff;
+  /* flex: 0 0 80%; */
 }
