@@ -2,7 +2,7 @@ body{
 
   margin: 0;
   padding: 0;
-  text-align: center;
+  /* text-align: center; */
   display: block;
 
 }
@@ -57,12 +57,13 @@ h1{
   height: 500px;
   color: #4aaaa5;
   border: 1px solid #dddddd;
+  padding: 10px;
 }
 .container img{
   float: left;
   height: 200px;
   width: 200px;
-  padding-right: 20px;
+  padding-right: 23px;
 }
 .container h1{
   text-align: left;
@@ -72,9 +73,10 @@ h1{
   color: #4aaaa5;
 }
 .container p{
-text-align: left;
+/* text-align: center; */
 color: #777777;
-line-height: 25px;
+line-height: 30px;
+font-size: 17px;
 }
 hr {
   background-color: #dddddd;
