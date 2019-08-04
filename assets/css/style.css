@@ -1,9 +1,12 @@
+
+
 body{
 
   margin: 0;
   padding: 0;
   /* text-align: center; */
   display: block;
+  text-decoration: none;
 
 }
 body{
@@ -20,6 +23,22 @@ body{
 
 
 }
+a:link{
+  color:#777777;
+}
+a:visited{
+  color:#777777;
+}
+a:hover{
+  color:#777777;
+}
+a:focus{
+  color:#777777;
+}
+a:active{
+  color:#777777;
+}
+
 header{
   font-family: 'Georgia', Times, Times New Roman, serif;
   background-color: #ffffff;
@@ -38,6 +57,39 @@ header{
 h1{
   color: #fff;
 }
+nav a{
+  display: table;
+  float: left;
+  padding: 35px;
+  text-decoration: none;
+
+}
+nav a:hover{
+  color: #4aaaa5;
+}
+nav{
+  float: left;
+  position: absolute;
+  left: 800px;
+
+}
+nav ul li{
+  list-style-type: none;
+}
+
+.portfolio{
+  border-left: 1px solid #dddddd;
+  border-right: 1px solid #dddddd;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.about{
+  margin-right: -20px;
+}
+.contact{
+  margin-left: -10px;
+}
 
 .innerHeader{
   background-color: #4aaaa5;
@@ -46,9 +98,9 @@ h1{
   height: 100%;
   float: left;
 }
- li{
-  float: left;
-}
+
+
+
 .container{
   background: #fff;
   position: static;
