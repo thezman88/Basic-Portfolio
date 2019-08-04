@@ -29,6 +29,7 @@ header{
   flex-direction: column;
   text-align: center;
   color: #777777;
+  border-bottom: 1px solid #dddddd;
 
 
 }
@@ -51,9 +52,10 @@ h1{
   background: #fff;
   position: static;
   width: 960px;
-  margin-left: 217px;
+  margin-left: 200px;
   height: 500px;
   color: #4aaaa5;
+  border: 1px solid #dddddd;
 }
 .container img{
   float: left;
@@ -64,18 +66,27 @@ h1{
 .container h1{
   text-align: left;
   justify-content: center;
-  padding-top: 50px;
+  padding-top: 15px;
   padding-left: 30px;
   color: #4aaaa5;
 }
 .container p{
 text-align: left;
 color: #777777;
+line-height: 25px;
 }
 hr {
   background-color: #dddddd;
-  height: 1px;
-   border: 0;
+  height: 3px;
+   border: 5px;
    width: 90%;
    margin-left: 10px;
+ }
+ footer{
+   height: 3rem;
+   background: #666666;
+   width: 100%;
+   position: absolute;
+   bottom: 0px;
+   border-top: 10px solid #4aaaa5;
  }
