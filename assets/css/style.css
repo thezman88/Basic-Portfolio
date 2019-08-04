@@ -34,6 +34,7 @@ header{
 
 }
 
+
 h1{
   color: #fff;
 }
@@ -89,4 +90,5 @@ hr {
    position: absolute;
    bottom: 0px;
    border-top: 10px solid #4aaaa5;
+   color: #fff;
  }
