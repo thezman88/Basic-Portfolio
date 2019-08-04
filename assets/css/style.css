@@ -106,7 +106,7 @@ nav ul li{
   position: static;
   width: 960px;
   margin-left: 200px;
-  height: 500px;
+  height: 600px;
   color: #4aaaa5;
   border: 1px solid #dddddd;
   padding: 10px;
@@ -141,9 +141,48 @@ hr {
    height: 3rem;
    background: #666666;
    width: 100%;
-   position: absolute;
-   bottom: 0px;
+   position: relative;
+   top: 40px;
+   /* bottom: 0px; */
    border-top: 10px solid #4aaaa5;
    color: #fff;
    text-align: center;
+ }
+ .box-1{
+   height: 150px;
+   width: 250px;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200.jpeg);
+   float: left;
+ }
+ .box-2{
+   height: 155px;
+   width: 250px;
+   background: green;
+   float: left;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-1.jpeg);
+
+ }
+ .box-3{
+   height: 150px;
+   width: 250px;
+   background: green;
+   float: left;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-2.jpeg);
+
+ }
+ .box-4{
+   height: 150px;
+   width: 250px;
+   background: green;
+   float: left;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-3.jpeg);
+
+ }
+ .box-5{
+   height: 150px;
+   width: 250px;
+   background: green;
+   float: left;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/sports.jpeg);
+
  }
