@@ -15,3 +15,54 @@
 
 
 }
+.box-absolute1{
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  background: #4aaaa5;
+  bottom: 220px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.box-absolute4{
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  background: #4aaaa5;
+  bottom: 220px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.box-absolute5{
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  background: #4aaaa5;
+  bottom: 40px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.box-absolute:hover{
+  color: #cccccc;
+}
+.box-absolute1:hover{
+  color: #cccccc;
+}
+.box-absolute4:hover{
+  color: #cccccc;
+}
+.box-absolute5:hover{
+  color: #cccccc;
+}
