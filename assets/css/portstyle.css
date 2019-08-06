@@ -1,6 +1,7 @@
 .container{
-  height: 800px;
+  height: 700px;
   padding: 0;
+  margin-bottom: 5px;
 }
 .box-absolute{
   position: absolute;
