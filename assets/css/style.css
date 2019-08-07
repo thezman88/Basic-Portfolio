@@ -101,10 +101,10 @@ nav ul li{
 
 .container{
   background: #fff;
-  position: static;
+  /* position: sticky; */
   width: 960px;
   margin-left: 200px;
-  margin-bottom: 55px;
+  margin-bottom: 70px;
   height: 500px;
   color: #4aaaa5;
   border: 1px solid #dddddd;
@@ -140,8 +140,8 @@ hr {
    height: 3.99rem;
    background: #666666;
    width: 100%;
-   position: relative;
-   top: 40px;
+   position: sticky;
+   /* top: 40px; */
    /* bottom: 0px; */
    border-top: 10px solid #4aaaa5;
    color: #fff;
