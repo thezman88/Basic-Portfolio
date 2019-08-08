@@ -109,6 +109,7 @@ nav ul li{
   color: #4aaaa5;
   border: 1px solid #dddddd;
   padding: 10px;
+  text-transform: none;
 }
 .container img{
   float: left;
@@ -128,12 +129,14 @@ nav ul li{
 color: #777777;
 line-height: 30px;
 font-size: 17px;
+padding: 5px;
+font-family: 'calibri',sans-serif;
 }
 hr {
   background-color: #dddddd;
   height: 3px;
    border: 5px;
-   width: 90%;
+   width: 95%;
    margin-left: 30px;
  }
  footer{
