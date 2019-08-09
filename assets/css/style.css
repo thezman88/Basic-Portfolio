@@ -102,8 +102,12 @@ nav ul li{
 .container{
   background: #fff;
   /* position: sticky; */
-  width: 960px;
+  /* width: 960px;
   margin-left: 200px;
+  margin-right: auto; */
+  /* margin-right: 100px; */
+  margin-left: 200px;
+  margin-right: 260px;
   margin-bottom: 70px;
   height: 500px;
   color: #4aaaa5;
