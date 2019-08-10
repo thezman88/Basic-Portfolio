@@ -2,17 +2,14 @@ body{
 
   margin: 0;
   padding: 0;
-  /* text-align: center; */
   display: block;
   text-decoration: none;
 
 }
 body{
   min-height: 100vh;
-  /* display: flex; */
   align-items: center;
   justify-content: center;
-  /* background: #ffd0a8; */
   color: #333;
   font-family: 'calibri, sans=serif';
   font-weight: 400;
@@ -101,11 +98,6 @@ nav ul li{
 
 .container{
   background: #fff;
-  /* position: sticky; */
-  /* width: 960px;
-  margin-left: 200px;
-  margin-right: auto; */
-  /* margin-right: 100px; */
   margin-left: 200px;
   margin-right: 260px;
   margin-bottom: 70px;
@@ -129,7 +121,6 @@ nav ul li{
   color: #4aaaa5;
 }
 .container p{
-/* text-align: center; */
 color: #777777;
 line-height: 30px;
 font-size: 17px;
@@ -148,8 +139,6 @@ hr {
    background: #666666;
    width: 100%;
    position: sticky;
-   /* top: 40px; */
-   /* bottom: 0px; */
    border-top: 10px solid #4aaaa5;
    color: #fff;
    text-align: center;
